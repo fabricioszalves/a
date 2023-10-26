@@ -33,7 +33,7 @@ public class Cliente {
         this.idc = idc;
     }
 /*
-    public String getEndereco() {
+    public String getEndereco() {hhhh
 
         return endereco;
    }
