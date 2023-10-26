@@ -54,7 +54,7 @@ public class Cliente {
            System.out.println(this.endereco);
        }
         public String retornarNomeCliente(){
-           return thiendereco;
+           return thiendereco; to ficando losoc 
        }
       /*
       Simplicando!
