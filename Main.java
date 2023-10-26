@@ -15,7 +15,7 @@ public class Main {
          cliente.setNome(nome);
         System.out.print("Endereço: ");
         String endereco = scanner.nextLine();
-        cliente.setEndereco(endereco);
+        cliente.setEndereco(endereco); ddd
         */
         Random random = new Random();
         int numeroAleatorio = random.nextInt(1000);
